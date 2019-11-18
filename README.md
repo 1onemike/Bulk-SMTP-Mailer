@@ -1,7 +1,7 @@
 # SMTP-Mailer
 A C# smtp mailer windows application
 
-[![N|Solid](https://linx.li/s/5d53u7ki.jpg)]
+![N|Solid](https://linx.li/s/5d53u7ki.jpg)
 
 
 ## Installation
