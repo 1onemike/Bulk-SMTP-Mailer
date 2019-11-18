@@ -1,6 +1,9 @@
 # SMTP-Mailer
 A C# smtp mailer windows application
 
+[![N|Solid](https://linx.li/s/5d53u7ki.jpg)]
+
+
 ## Installation
 ```bash
 git clone https://github.com/1onemike/SMTP-Mailer
@@ -22,3 +25,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
