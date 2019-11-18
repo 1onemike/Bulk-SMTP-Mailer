@@ -1,9 +1,0 @@
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\bin\Debug\Atomic-Mail-Suite.exe
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\bin\Debug\Atomic-Mail-Suite.pdb
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\ATOMIC MAIL SUITE.csprojAssemblyReference.cache
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\Atomic_Mail_Suite.Form1.resources
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\Atomic_Mail_Suite.Properties.Resources.resources
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\ATOMIC MAIL SUITE.csproj.GenerateResource.cache
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\ATOMIC MAIL SUITE.csproj.CoreCompileInputs.cache
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\Atomic-Mail-Suite.exe
-C:\Users\OneMike\Desktop\SMTP MAILER\Atomic Mail Suite\obj\Debug\Atomic-Mail-Suite.pdb
