@@ -1,5 +1,5 @@
-# SMTP-Mailer
-A C# smtp mailer windows application
+#Bulk SMTP-Mailer
+A C# Bulk smtp mailer windows application
 
 [![smtp.jpg](https://i.postimg.cc/FRMGp86D/smtp.jpg)](https://postimg.cc/R6TcVs4H)
 
